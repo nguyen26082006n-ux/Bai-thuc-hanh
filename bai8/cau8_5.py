@@ -1,4 +1,4 @@
-print('họ tên: Nguyễn Như Diệu; MSSV:245752021610124')
+
 import tkinter as tk
 
 def ShowChoice():
@@ -41,3 +41,4 @@ for val, language in enumerate(languages):
 
 # Chạy vòng lặp sự kiện chính
 root.mainloop()
+
