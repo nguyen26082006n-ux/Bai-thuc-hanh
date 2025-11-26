@@ -1,5 +1,4 @@
-print("Trần Huy Vinh")
-print("MSV: 245752021610007")
+
 import math
 a = float(input("a ="))
 b = float(input("b ="))
@@ -26,3 +25,4 @@ else:
         print("phương trình có 2 nghiệm phân biệt:")
         print("x1 = ", x1)
         print("x2 = ", x2)
+
